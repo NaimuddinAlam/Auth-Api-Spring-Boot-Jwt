@@ -1,6 +1,6 @@
 package com.user.auth.security.jwt;
 
-import com.user.auth.security.services.UserDetailsServiceImpl;
+import com.user.auth.security.services.impl.UserDetailsServiceImpl;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

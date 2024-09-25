@@ -1,4 +1,4 @@
-package com.user.auth.security.services;
+package com.user.auth.security.services.impl;
 
 import com.user.auth.model.User;
 import org.springframework.security.core.GrantedAuthority;

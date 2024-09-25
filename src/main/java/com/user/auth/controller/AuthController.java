@@ -10,7 +10,7 @@ import com.user.auth.security.request.LoginRequest;
 import com.user.auth.security.request.SignupRequest;
 import com.user.auth.security.response.MessageResponse;
 import com.user.auth.security.response.UserInfoResponse;
-import com.user.auth.security.services.UserDetailsImpl;
+import com.user.auth.security.services.impl.UserDetailsImpl;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;

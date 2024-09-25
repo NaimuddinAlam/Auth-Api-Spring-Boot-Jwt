@@ -1,7 +1,7 @@
 package com.user.auth.security.jwt;
 
 
-import com.user.auth.security.services.UserDetailsImpl;
+import com.user.auth.security.services.impl.UserDetailsImpl;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;

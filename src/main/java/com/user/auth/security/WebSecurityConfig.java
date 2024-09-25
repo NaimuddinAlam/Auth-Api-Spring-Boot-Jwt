@@ -10,7 +10,7 @@ import com.user.auth.repositorys.RoleRepository;
 import com.user.auth.repositorys.UserRepository;
 import com.user.auth.security.jwt.AuthEntryPointJwt;
 import com.user.auth.security.jwt.AuthTokenFilter;
-import com.user.auth.security.services.UserDetailsServiceImpl;
+import com.user.auth.security.services.impl.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
